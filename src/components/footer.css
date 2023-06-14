@@ -1,0 +1,25 @@
+.footer {
+    width: 100%;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social a {
+    font-size: 35px;
+}
+
+.linkedin {
+    color: rgb(99, 51, 145);
+    border-radius: 20%;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 375px) {}
